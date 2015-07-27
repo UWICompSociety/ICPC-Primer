@@ -1,0 +1,10 @@
+Description
+ Calculate the value of a + b
+Input 
+	Two integers a,b (0<=a, b<=10)
+Output
+	a + b
+Sample Input
+	1 2
+Sample Output
+	3
